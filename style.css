@@ -5,3 +5,10 @@ h2{color: yellow}
 h1{background-color: black;}
 h2{background-color: gray;}
 p{background-color: aqua;}
+marquee{
+    background-color:red; 
+    height: 50px;
+
+    font-size: 40px;
+
+}
